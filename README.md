@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DimuthuDKA
 - 👀 I’m interested in Robotics.
-- 🌱 I’m currently pursuing doctoral studies in Computer Science at DePaul University, USA. 
 - 💞️ I hold PhD-Computer Science, MS-Electronic Eng., MS-Electrical Eng., BS-Mechanical Eng. 
 - 📫 Personal email ID: dimuthu@dimuthu.net
 

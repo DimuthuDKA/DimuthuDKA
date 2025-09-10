@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DimuthuDKA
-- 👀 I’m interested in Robotics.
-- 💞️ I hold PhD-Computer Science, MS-Electronics & Automation, MS-Renewable Energy, BS-Mechanical Eng. 
+- 👀 I’m interested in Robotics. 
+- 💞️ I did a postdoc at the University of Illinois Chicago. I hold PhD-Computer Science, MS-Electronics & Automation, MS-Renewable Energy, BS-Mechanical Eng. 
 - 📫 Personal email ID: dimuthu@dimuthu.net
 
 <!---
